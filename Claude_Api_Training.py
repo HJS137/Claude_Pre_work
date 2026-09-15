@@ -57,8 +57,38 @@ add_user_message(messages, "Write Another Sentence")
 
 final_answer = chat(messages)
 
-print(answer)
 
-print(final_answer)
+
+### Lesson 5 System prompts
+# building a flexible cha fucntion
+
+def chat(messages, system=None):
+    params = {
+        "model": model,
+        "max_tokens": 1000,
+        "messages": messages,
+    }
+
+
+    if system:
+        params["system"] = system
+
+    message = client.messages.create(**params)
+    return message.content[0].text
+
+## Now you can call the chat function with or without a system promt:
+
+# Without system prompt
+answer = chat(messages)
+
+# With system prompt
+system = """
+You are a patient math tutor.
+Do not directly answer a student's questions.
+Guide them to a solution step by step.
+"""
+answer = chat(messages, system=system)
+
+print(answer)
 
 
