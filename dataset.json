@@ -1,11 +1,20 @@
 [
   {
-    "task": "Create a JSON configuration object for an AWS S3 bucket policy that allows public read access to all objects"
+    "height": "180",
+    "weight": "75",
+    "goal": "muscle gain",
+    "restrictions": "vegetarian"
   },
   {
-    "task": "Write a Python function that parses an AWS CloudWatch log entry and extracts the timestamp, log level, and message using regex"
+    "height": "165",
+    "weight": "58",
+    "goal": "weight loss",
+    "restrictions": "gluten-free"
   },
   {
-    "task": "Create a JSON object representing an AWS Lambda function environment variables configuration with database credentials and API endpoints"
+    "height": "188",
+    "weight": "85",
+    "goal": "endurance",
+    "restrictions": "none"
   }
 ]

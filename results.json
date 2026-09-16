@@ -1,0 +1,68 @@
+{
+  "average": 5.333333333333333,
+  "results": [
+    {
+      "inputs": {
+        "height": "180",
+        "weight": "75",
+        "goal": "muscle gain",
+        "restrictions": "vegetarian"
+      },
+      "output": "# Nutrition Plan for Muscle Gain (Vegetarian)\n\n## Daily Calorie Target\n- **Estimated TDEE**: ~2,400-2,600 calories\n- **Surplus for muscle gain**: 2,700-2,900 calories/day\n\n## Protein Priority\n- **Target**: 110-135g daily (1.5-1.8g per kg)\n- **Sources**:\n  - Greek yogurt\n  - Cottage cheese\n  - Eggs\n  - Lentils & chickpeas\n  - Tofu & tempeh\n  - Protein powder (whey or plant-based)\n  - Nuts & seeds\n\n## Macros Breakdown\n- **Protein**: 30% (810-870 cal)\n- **Carbs**: 45% (1,215-1,305 cal)\n- **Fats**: 25% (675-725 cal)\n\n## Sample Daily Foods\n- **Breakfast**: Oats + Greek yogurt + berries + almonds\n- **Lunch**: Lentil curry + rice + spinach\n- **Snack**: Protein shake + banana\n- **Dinner**: Tofu stir-fry + sweet potato + broccoli\n- **Evening**: Cottage cheese or nuts\n\n## Key Tips\n\u2713 Eat in a modest caloric surplus  \n\u2713 Prioritize protein at every meal  \n\u2713 Combine strength training with nutrition  \n\u2713 Stay hydrated  \n\u2713 Be consistent for 8-12 weeks to see results\n\nWould you like a specific meal plan or recipe suggestions?",
+      "score": 6,
+      "strengths": [
+        "Accurate TDEE and caloric surplus calculations appropriate for a 180cm, 75kg male seeking muscle gain",
+        "Comprehensive protein sources tailored to vegetarian restrictions with specific, actionable food examples",
+        "Clear macronutrient percentages with calorie ranges that align with muscle-building goals"
+      ],
+      "weaknesses": [
+        "Missing exact portions and quantities for sample meals (e.g., '200g Greek yogurt' instead of just 'Greek yogurt')",
+        "No meal timing specifications despite criteria explicitly requiring it (pre/post-workout windows, meal frequency not detailed)",
+        "Lacks a complete structured daily meal plan with specific portion sizes that would allow direct implementation"
+      ],
+      "reasoning": "The output demonstrates solid nutritional knowledge and addresses most core requirements: daily caloric total (2,700-2,900), macronutrient breakdown (30/45/25), and relevant vegetarian foods. However, it falls short on the explicit requirement for 'exact foods, portions, and timing.' The sample meals are illustrative but lack concrete quantities (grams/ml) and meal timing details (e.g., '7am breakfast with 50g oats'). The response reads as a template rather than an actionable plan. While the content quality is good, the incomplete execution against stated criteria prevents a higher score."
+    },
+    {
+      "inputs": {
+        "height": "165",
+        "weight": "58",
+        "goal": "weight loss",
+        "restrictions": "gluten-free"
+      },
+      "output": "# Nutrition Plan for Weight Loss (Gluten-Free)\n\n## Quick Assessment\n- **BMI:** ~21.3 (healthy range)\n- **Note:** You're already at a healthy weight. Focus on body composition rather than scale weight.\n\n## Recommended Daily Approach\n\n### Protein (priority)\n- Chicken, fish, turkey, eggs\n- Greek yogurt, cottage cheese\n- Legumes (beans, lentils)\n- **Target:** 25-30% of calories\n\n### Vegetables & Fruits\n- Leafy greens, broccoli, cauliflower\n- Berries, apples, citrus\n- **Target:** Fill half your plate\n\n### Healthy Fats\n- Olive oil, avocados, nuts\n- Fatty fish (salmon, mackerel)\n- **Target:** 25-30% of calories\n\n### Gluten-Free Carbs\n- Rice, quinoa, sweet potatoes\n- Certified gluten-free oats\n- **Target:** 40-45% of calories\n\n## Key Tips\n\u2713 Prioritize protein (keeps you full)\n\u2713 Stay hydrated\n\u2713 Track portions (you don't need drastic cuts)\n\u2713 Consider resistance training (preserve muscle)\n\u2713 Aim for 300-500 calorie deficit if needed\n\n## Consult\nConsider speaking with a **registered dietitian** for a personalized plan, especially since you're already at a healthy weight.",
+      "score": 4,
+      "strengths": [
+        "Appropriately contextualizes the situation by noting the user is already at a healthy BMI and suggesting focus on body composition rather than pure weight loss",
+        "Properly addresses the gluten-free restriction throughout with specific alternatives and certified options",
+        "Provides well-organized, readable structure with clear categorization of macronutrient groups and practical tips"
+      ],
+      "weaknesses": [
+        "Missing daily caloric total - does not provide a specific calorie target despite this being a primary requirement for weight loss planning",
+        "No specific meal plan with exact portions and timing - provides only general food categories without breakfast/lunch/dinner examples or portion sizes",
+        "Incomplete macronutrient breakdown - gives percentage ranges but no absolute gram targets or daily totals based on the user's stats"
+      ],
+      "reasoning": "The output demonstrates good nutritional knowledge and appropriate tone for someone at a healthy weight, but falls significantly short on the critical requirement for actionable guidance. The instructions explicitly require: daily caloric total, macronutrient breakdown, and meals with exact foods, portions, and timing. The output provides none of these specifics. While the general framework is sound, it reads more like general nutrition advice than a personalized plan. For someone seeking a structured nutrition plan, this lacks the concrete details necessary to implement it."
+    },
+    {
+      "inputs": {
+        "height": "188",
+        "weight": "85",
+        "goal": "endurance",
+        "restrictions": "none"
+      },
+      "output": "# Nutrition Plan for Endurance\n\n## Daily Calorie Target\n**2,700-3,000 calories** (depending on training intensity)\n\n## Macronutrient Breakdown\n\n| Macronutrient | % | Grams |\n|---|---|---|\n| **Carbs** | 55-60% | 370-450g |\n| **Protein** | 15-20% | 100-120g |\n| **Fat** | 20-25% | 60-85g |\n\n## Sample Daily Eating Pattern\n\n**Breakfast**\n- Oatmeal with banana, berries, honey\n- Whole grain toast with almond butter\n- Green tea\n\n**Snack**\n- Greek yogurt with granola\n- Apple with dates\n\n**Lunch**\n- Lean chicken or fish\n- Brown rice or sweet potato\n- Vegetables (broccoli, peppers)\n- Olive oil drizzle\n\n**Pre-workout**\n- Banana with honey or energy bar\n\n**Dinner**\n- Lean protein (turkey, salmon, tofu)\n- Whole wheat pasta or quinoa\n- Mixed vegetables\n- Olive oil\n\n**Evening**\n- Cottage cheese or casein shake (if needed)\n\n## Key Principles\n\u2713 **Complex carbs** (oats, brown rice, quinoa) for sustained energy  \n\u2713 **Lean proteins** for recovery  \n\u2713 **Healthy fats** for hormone balance  \n\u2713 **Hydration** - 2.5-3L water daily  \n\u2713 **Timing** - eat carbs around workouts\n\nWould you like specific meal prep ideas or adjustments?",
+      "score": 6,
+      "strengths": [
+        "Provides appropriate calorie target (2,700-3,000) for a 188cm, 85kg male with endurance goals",
+        "Includes clear macronutrient breakdown with both percentages and gram amounts",
+        "Well-structured meal timing with pre-workout nutrition consideration and appropriate food choices for endurance"
+      ],
+      "weaknesses": [
+        "Missing exact portion sizes for meals (e.g., '200g chicken' instead of just 'chicken'). The criteria explicitly requires 'exact foods, portions, and timing'",
+        "Lacks specific meal timing/clock times (breakfast at 7am, lunch at 12pm, etc.) - only general timing categories provided",
+        "No quantified hydration strategy tied to workout intensity; recommendation is vague ('2.5-3L water daily')"
+      ],
+      "reasoning": "The output meets 2 of 3 criteria fully: it includes daily caloric total and a complete macronutrient breakdown. However, it falls short on the third requirement regarding 'exact foods, portions, and timing.' While food choices are appropriate and meal structure shows good timing awareness (pre-workout, post-workout considerations), the output provides qualitative descriptions (e.g., 'Lean chicken or fish') rather than quantified portions (e.g., '150g grilled chicken breast'). Clock times are also absent. The nutritional guidance is sound and well-presented, but lacks the specificity required for a complete meal plan that someone could execute without further clarification."
+    }
+  ]
+}
