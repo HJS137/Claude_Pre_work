@@ -3,9 +3,9 @@
     "task": "Create a JSON configuration object for an AWS S3 bucket policy that allows public read access to all objects"
   },
   {
-    "task": "Write a Python function that extracts the AWS region from an S3 bucket ARN using regex"
+    "task": "Write a Python function that parses an AWS CloudWatch log entry and extracts the timestamp, log level, and message using regex"
   },
   {
-    "task": "Create a JSON object representing an AWS Lambda function environment variables configuration with database credentials"
+    "task": "Create a JSON object representing an AWS Lambda function environment variables configuration with database credentials and API endpoints"
   }
 ]
